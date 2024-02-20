@@ -1,7 +1,7 @@
 import java.util.*;
 class main
 {   
-    public static addition(int a,int b)
+    public static void addition(int a,int b)
 {
     System.out.println("Sum is: "+a+b);
 }
